@@ -1,4 +1,4 @@
-# Vertical Heavy Chain
+# Transverse Normal Modes of a Vertical Heavy Chain
 
 Derivation of the differential equation, the transverse normal modes, and their frequencies, for a heavy chain hanging vertically. Originally written on June 17, 1995.
 
