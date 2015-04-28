@@ -2,6 +2,10 @@
 
 Derivation of the differential equation, the transverse normal modes, and their frequencies for a heavy chain hanging vertically. Originally written on June 17, 1995.
 
+![](1st_four_modes.png)
+
+First 4 transverse normal modes.
+
 ## Creator
 
 That would be me, _Wagner Truppel_. If you need or want to contact me, send a message to `wagner` at `restlessbrain` dot com.
